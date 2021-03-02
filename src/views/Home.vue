@@ -182,6 +182,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+  .home {
+    margin-top: 10px;
+  }
 .content {
   margin: 0;
   padding: 0;
