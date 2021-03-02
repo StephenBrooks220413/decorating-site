@@ -4,13 +4,14 @@
       <img src="https://www.touchbyme.net/assets/img/team/main-logo.jpg"
         alt=""
         class="img-fluid"
-        style="max-height: 750px; width: 100%;"
+        style="max-height: 850px; width: 100%;"
       />
     </div>
     <br /><br />
     <br /><br />
     <br /><br />
-    <img alt="MDB logo" src="../assets/main.png">
+    <br /><br />
+    <img alt="MDB logo" width="300px" src="../assets/main.png">
     <HelloWorld msg="Welcome to Your Leading Decorator"/>
     <div class="container">
       <!-- Carousel wrapper -->
