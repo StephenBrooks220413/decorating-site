@@ -35,9 +35,9 @@
               </router-link>
             </li>
             <li class="nav-item">
-              <a class="a nav-link disabled" href="#" tabindex="-1" aria-disabled="true"
-                >Gallery</a
-              >
+              <router-link to="/gallery" class="a nav-link active">
+                Gallery
+              </router-link>
             </li>
           </ul>
           <!-- Left links -->
